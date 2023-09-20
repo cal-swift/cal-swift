@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cal-swift
+- 👀 I’m interested in web development, (mainly svelte) and sometimes I do Swift projects.
+- 🌱 I’m currently learning SvelteKit.
